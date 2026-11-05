@@ -1,45 +1,46 @@
-<h1 align="center">
-ChatGPT
-</h1>
+EPOSITORY LICENSE & USAGE RESTRICTIONS
 
-<p align="center">
-    <br> English | <a href="README" </a>
-</p>
-<p align="center">
-    <em>Deploy your own ChatGPT
-</p>
-<p align="center">
-    <a href=https://github.com/ChatGPT> <img
-    
-## About
+All Rights Reserved.
 
-The simplest and fastest way to deploy your own ChatGPT. 
+Mandatory Repository Reset
+All existing content, files, documentation, configurations, modifications, and other materials within this repository must be reset, removed, or cleared as instructed by the repository owner.
 
-<details>
-<summary>example</summary>
-<img style="max-width: 600px;" alt="image" src="./doc/demo.png">
-</details>
+No existing content shall be retained, modified, or reused without explicit authorization from the repository owner.
 
-## Features
+Restricted Access and Modifications
+No individual, contributor, collaborator, or third party is permitted to:
 
-- Serverless deployment
-- Simple KV-based configuration
-- Streaming output
-- Multi-language support
-- Text-to-image generation
+Write, add, or insert any content into this repository.
+Create, modify, delete, or replace any files.
+Make changes to existing source code, documentation, or configurations.
+Submit commits, pull requests, or other modifications.
+Copy, distribute, reproduce, or reuse any materials contained within this repository.
+All actions listed above require prior written permission from the repository owner.
 
-## Documentation
+Unauthorized Contributions
+Any unauthorized addition, modification, or contribution shall be considered a violation of this repository’s usage restrictions.
 
-- [Deploy in one click](https://github.com
+The repository owner reserves the right to reject, revert, remove, or revoke access to any unauthorized changes or contributions without prior notice.
 
-## Related Projects
+Ownership and Authorization
+All rights, permissions, and control over this repository remain exclusively with its owner.
 
-- (https://github.com)
+No individual or third party shall assume permission to contribute, modify, distribute, or otherwise interact with the repository beyond what has been explicitly authorized.
 
-## Contributors
+Silence, lack of objection, or the absence of restrictions within a particular file shall not be interpreted as consent or permission.
 
-This project exists thanks to all the people who contribute. [Contribute](https://github.com/contributors).
+Permission Requirement
+NO PERMISSION, NO MODIFICATION.
 
-## License
+Any form of writing, editing, uploading, deleting, or modifying content within this repository is strictly prohibited unless explicit authorization has been granted by the repository owner.
 
-**ChatGPT-Workers** is released under the MIT license. [See LICENSE](LICENSE) for details.
+Final Declaration
+By accessing or interacting with this repository, individuals are expected to respect the restrictions and conditions stated herein.
+
+Unauthorized actions are not permitted, regardless of intent or contribution.
+
+This repository is strictly controlled by its owner. All rights reserved.
+
+⸻
+
+Repository Owner: iN4MO License Type: Proprietary License / All Rights Reserved Permission Status: Restricted Last Updated: 05.10.2026
